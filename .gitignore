@@ -1,0 +1,3 @@
+# The cloned fork and scratch files live here; they are not part of the harness.
+workspace/
+__pycache__/
